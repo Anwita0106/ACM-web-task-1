@@ -1,5 +1,5 @@
 # ACM-web-task-1
-🚀 Features
+🚀 Features -
 
 🌟 Smooth, high-performance animations powered by GSAP
 
@@ -8,11 +8,13 @@
 
 
 🔄 Animations on scroll, hover, and page load
+
 🎨 Clean HTML, CSS, and JavaScript structure
+
+
 💡 Custom timing and easing for each animation
 
 🧰 Tech Stack
-
 
 HTML5
 CSS3
