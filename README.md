@@ -10,6 +10,10 @@
 💡 Custom timing and easing for each animation
 
 🧰 Tech Stack
+
+
+
+
 HTML5
 CSS3
 JavaScript (ES6+)
