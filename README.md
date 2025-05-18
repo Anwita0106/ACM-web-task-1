@@ -14,10 +14,10 @@
 
 💡 Custom timing and easing for each animation
 
-🧰 Tech Stack
+🧰 Tech Stack -
 
-HTML5
-CSS3
-JavaScript (ES6+)
+HTML5,
+CSS3,
+JavaScript (ES6+),
 GSAP (v3)
 
