@@ -14,6 +14,8 @@
 
 💡 Custom timing and easing for each animation
 
+
+
 🧰 Tech Stack -
 
 HTML5,
